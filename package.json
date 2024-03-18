@@ -1,0 +1,16 @@
+{
+  "name": "auto-test",
+  "version": "1.0.0",
+  "description": "Regression test boilerplate using Nightwatch and HTML Reports, integration with Slack to report results.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nightwatch/vrt": "^3.5.1",
+    "nightwatch": "^3.5.0"
+  }
+}
